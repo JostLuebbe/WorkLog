@@ -3,6 +3,7 @@ import enum as em
 import tkinter as tk
 from tkinter import ttk
 import pickle as pk
+import logging as lg
 
 
 class Status(em.Enum):
